@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Aridalimudin21552011460" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/prymaryColor</item>
+        <item name="colorSecondary">@color/secondaryryColor</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorOnPrimary">@color/background</item>
+    </style>
+</resources>
